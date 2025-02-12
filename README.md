@@ -1,6 +1,6 @@
 <h1>👋 Hi! I'm Bharat Kambariya.</h1>
 
-<p>Experienced Senior Web Developer with strong skills in PHP/WordPress, Javascript/React. Quite knowledgeable in plugin developments, Gutenberg block developments in WordPress, and have a piece of quite good knowledge about servers. Additionally, I have got the opportunity to enhance my skills in react js as well.</p>
+<p>Experienced Senior Web Developer with strong skills in PHP/WordPress, Javascript/React. Quite knowledgeable in plugin developments, Gutenberg block developments in WordPress, and have a piece of quite good knowledge about servers. Additionally, I have had the opportunity to enhance my skills in React JS as well.</p>
 
 <h3>Technology</h3>
 <p dir="auto">
@@ -14,8 +14,6 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c0f60c84bd23525a0f1e5972ff5052f878eb4104e88b347b7f0004d0e6ad8898/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img alt="html5" src="https://camo.githubusercontent.com/c0f60c84bd23525a0f1e5972ff5052f878eb4104e88b347b7f0004d0e6ad8898/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20bd6610174fe74e992bf1b7fe5009d8b6035e1f59cecca5669d8457f991bb26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img alt="Nodejs" src="https://camo.githubusercontent.com/20bd6610174fe74e992bf1b7fe5009d8b6035e1f59cecca5669d8457f991bb26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&amp;logo=Node.js&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
- 
-
 
 <h3>Where to find me</h3>
 
