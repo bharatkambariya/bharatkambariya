@@ -19,12 +19,6 @@
 
 <h3>Where to find me</h3>
 
-<a href="https://profiles.wordpress.org/bharatkambariya/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/3ff0ab300fb2314dc2b0ee8622e863fdab8bf079afc2d66dc9ec11c0defd2a44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726470726573732d3231373539423f7374796c653d666f722d7468652d6261646765266c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://www.linkedin.com/in/bharat-kambariya-58918555/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://twitter.com/bharatkambariya/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
-</a>
+<p dir="auto"><a href="https://www.linkedin.com/in/bharat-kambariya-58918555/" rel="nofollow"><img src="https://camo.githubusercontent.com/eec302d810d8d49f95d93432e0083da91f0381db7c9263545b60fda0374ff2de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d616c766966616973616c2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616c766966616973616c2f" alt="LinkedIn: Bharat" data-canonical-src="https://img.shields.io/badge/bharat-kambariya-bluee&amp;link=https://www.linkedin.com/in/alvifaisal/" style="max-width: 100%;"></a> 
+
+</p>
