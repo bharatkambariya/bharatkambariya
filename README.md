@@ -19,6 +19,7 @@
 
 <h3>Where to find me</h3>
 
-<p dir="auto"><a href="https://www.linkedin.com/in/bharat-kambariya-58918555/" rel="nofollow"><img src="https://camo.githubusercontent.com/eec302d810d8d49f95d93432e0083da91f0381db7c9263545b60fda0374ff2de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d616c766966616973616c2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616c766966616973616c2f" alt="LinkedIn: Bharat" data-canonical-src="https://img.shields.io/badge/bharat-kambariya-bluee&amp;link=https://www.linkedin.com/in/alvifaisal/" style="max-width: 100%;"></a> 
+<p dir="auto">
+<a href="https://www.linkedin.com/in/bharat-kambariya-58918555/" rel="nofollow"><img src="https://camo.githubusercontent.com/eec302d810d8d49f95d93432e0083da91f0381db7c9263545b60fda0374ff2de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d616c766966616973616c2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616c766966616973616c2f" alt="LinkedIn: Bharat" data-canonical-src="https://img.shields.io/badge/bharat-kambariya-blue&amp;link=https://www.linkedin.com/in/bharat-kambariya-58918555/" style="max-width: 100%;"></a>
 
 </p>
